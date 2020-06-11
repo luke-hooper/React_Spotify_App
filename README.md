@@ -1,3 +1,5 @@
+API keys hidden from git in a config.js file in the src directory.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
