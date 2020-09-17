@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/luke-hooper/React_Spotify_App/static/css/main.617016ea.chunk.css",
-    "main.js": "/luke-hooper/React_Spotify_App/static/js/main.2a8c232d.chunk.js",
-    "main.js.map": "/luke-hooper/React_Spotify_App/static/js/main.2a8c232d.chunk.js.map",
-    "runtime-main.js": "/luke-hooper/React_Spotify_App/static/js/runtime-main.88a3b0a6.js",
-    "runtime-main.js.map": "/luke-hooper/React_Spotify_App/static/js/runtime-main.88a3b0a6.js.map",
-    "static/js/2.051a2115.chunk.js": "/luke-hooper/React_Spotify_App/static/js/2.051a2115.chunk.js",
-    "static/js/2.051a2115.chunk.js.map": "/luke-hooper/React_Spotify_App/static/js/2.051a2115.chunk.js.map",
-    "index.html": "/luke-hooper/React_Spotify_App/index.html",
-    "precache-manifest.8d0ed2d3b6e213dd15daad73669e29f2.js": "/luke-hooper/React_Spotify_App/precache-manifest.8d0ed2d3b6e213dd15daad73669e29f2.js",
-    "service-worker.js": "/luke-hooper/React_Spotify_App/service-worker.js",
-    "static/css/main.617016ea.chunk.css.map": "/luke-hooper/React_Spotify_App/static/css/main.617016ea.chunk.css.map",
-    "static/js/2.051a2115.chunk.js.LICENSE.txt": "/luke-hooper/React_Spotify_App/static/js/2.051a2115.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/luke-hooper/React_Spotify_App/static/media/background_photo_desktop.37be7357.jpg"
+    "main.css": "/React_Spotify_App/static/css/main.38ff7552.chunk.css",
+    "main.js": "/React_Spotify_App/static/js/main.36ef3cfc.chunk.js",
+    "main.js.map": "/React_Spotify_App/static/js/main.36ef3cfc.chunk.js.map",
+    "runtime-main.js": "/React_Spotify_App/static/js/runtime-main.5b96f1ae.js",
+    "runtime-main.js.map": "/React_Spotify_App/static/js/runtime-main.5b96f1ae.js.map",
+    "static/js/2.051a2115.chunk.js": "/React_Spotify_App/static/js/2.051a2115.chunk.js",
+    "static/js/2.051a2115.chunk.js.map": "/React_Spotify_App/static/js/2.051a2115.chunk.js.map",
+    "index.html": "/React_Spotify_App/index.html",
+    "precache-manifest.7d893e56b4e24a1193ff293ea6b2490f.js": "/React_Spotify_App/precache-manifest.7d893e56b4e24a1193ff293ea6b2490f.js",
+    "service-worker.js": "/React_Spotify_App/service-worker.js",
+    "static/css/main.38ff7552.chunk.css.map": "/React_Spotify_App/static/css/main.38ff7552.chunk.css.map",
+    "static/js/2.051a2115.chunk.js.LICENSE.txt": "/React_Spotify_App/static/js/2.051a2115.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React_Spotify_App/static/media/background_photo_desktop.37be7357.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.88a3b0a6.js",
+    "static/js/runtime-main.5b96f1ae.js",
     "static/js/2.051a2115.chunk.js",
-    "static/css/main.617016ea.chunk.css",
-    "static/js/main.2a8c232d.chunk.js"
+    "static/css/main.38ff7552.chunk.css",
+    "static/js/main.36ef3cfc.chunk.js"
   ]
 }
